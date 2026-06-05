@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Varun Singh 👋
 
-<!--
-**varunsingh4706-dev/varunsingh4706-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering student at Parul University.
 
-Here are some ideas to get you started:
+I'm interested in software development, AI-powered applications, and cloud technologies. Most of my current work involves Java, web development, and building projects that solve practical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Languages**
+Java • Python • JavaScript • C
+
+**Web Development**
+React • Node.js • HTML • CSS • REST APIs
+
+**Databases**
+MySQL • MongoDB
+
+**Tools**
+Git • GitHub • VS Code • Android Studio
+
+## Featured Project
+
+### 🛡️ AuraShield – AI Eye Strain Detector
+
+AuraShield uses real-time eye and face tracking to monitor screen usage, detect signs of eye strain, and encourage healthier screen habits through timely alerts and recommendations.
+
+**Tech Stack:** Python • OpenCV • Computer Vision
+
+🔗 Check out my pinned repositories below to see what I've been building.
+
+## Currently Learning
+
+* Data Structures & Algorithms
+* Full-Stack Development
+* AWS & Cloud Technologies
+
+## Outside of Coding
+
+🏋️ Gym
+⚽ Sports
+🎵 Music
+🌍 Exploring New Places
+
+## Connect With Me
+
+📧 [varunsingh4706@gmail.com](mailto:varunsingh4706@gmail.com)
+
+💼 LinkedIn: linkedin.com/in/varun-singh-380378354
