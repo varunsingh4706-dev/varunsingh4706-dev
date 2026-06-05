@@ -26,7 +26,7 @@ AuraShield uses real-time eye and face tracking to monitor screen usage, detect 
 
 **Tech Stack:** Python • OpenCV • Computer Vision
 
-🔗 🔗 View Project: [AuraShield](your_repo_link)
+🔗 View Project: [AuraShield](https://github.com/varunsingh4706-dev/AI-Eye-Strain-Detector)
 
 ## Currently Learning
 
